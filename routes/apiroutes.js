@@ -1,3 +1,4 @@
+const router = require("express").Router();
 const fs = require("fs");
 const path = require("path");
 const savedNotes = require("../db/db.json")
@@ -28,3 +29,4 @@ module.exports = (app) => {
     updateDb();
 };
 
+module.exports = router;
