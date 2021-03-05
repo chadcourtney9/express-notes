@@ -33,7 +33,8 @@ router.post("/api/notes", (req, res) => {
 });
 
 router.delete("/api/notes/:id", (req, res) => {
-
+    let noteId = req.params.id
+    fs.readFile("../db/db.json")
 })
 
 
