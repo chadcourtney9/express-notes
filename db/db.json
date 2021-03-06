@@ -1,9 +1,1 @@
-[
-    {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "id": "08e2b2cc-4c6e-45b7-95f7-0c92c01b6c6e"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"id":"08e2b2cc-4c6e-45b7-95f7-0c92c01b6c6e"},{"id":"39377e82-5298-457f-81b0-3a50c18dcad4","title":"Hello Central","text":"This is my note taker express.js homework."}]
