@@ -18,9 +18,8 @@
 See [video](https://youtu.be/9GQp7iFNFU0) here
 
 # Finished page
-![img of finished page](https://github.com/chadcourtney9/my-team/blob/main/assets/images/screenshot%20of%20page.PNG)
-# Tests
-![img of tests](https://github.com/chadcourtney9/my-team/blob/main/assets/images/tests.PNG)
+![img of finished page](https://github.com/chadcourtney9/express-notes/blob/main/public/assets/images/Capture.PNG)
+
 
 # Contact
 [Linkedin](https://www.linkedin.com/in/chad-courtney-7951721ba/) ||
