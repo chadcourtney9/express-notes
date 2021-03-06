@@ -1,7 +1,7 @@
 # express-notes
 ### ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
-### This week I was tasked with creating a generator that created cards for each employee with certain requested info. The generator is designed to ask the user questions about each employee starting with their role. Those roles include manager, engineer and intern. Each role has their own specific additional info(i.e manager: office number, engineer:github account, intern: school). Once all the questions are filled out and the last option of all members added, it will generate the html page with all of the info that the user has input.
+### This week I was tasked with creating a note taker. This note taker allows user to store and refer back to notes that they have previously saved. Currently working on the delete button so users can remove notes that they no longer need.
 
 ## Table of Contents
 - [Video-Walkthrough](#video-walkthrough)
